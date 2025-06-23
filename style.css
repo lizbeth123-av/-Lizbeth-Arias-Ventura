@@ -1,0 +1,16 @@
+body {
+<style>
+    .content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #c73434;
+        }
+
+        h1 {
+            text-align: center;
+            color: #030000;
+        }
+</style>
+}
